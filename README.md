@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, artificial intelligence, and open-source projects.
 - 🌱 I’m currently learning advanced algorithms, machine learning, and cloud computing.
 - 💞️ I’m looking to collaborate on innovative AI projects and impactful open-source initiatives.
-- 📫 How to reach me: You can contact me via email at sonbh2000@example.com or connect with me on LinkedIn.
+- 📫 How to reach me: You can contact me via email at Son.BH232278M@sis.hust.edu.vn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time!
 
